@@ -4227,3 +4227,4 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 }
 
 div#reply_container { color: #424242; }
+ts-thread .reply_input_container .inline_message_input_container form textarea { border-color: #ff0000; color: #363636; }
